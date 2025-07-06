@@ -54,6 +54,7 @@ python tao_khoa_rsa.py
 - Kết quả: tạo file `goi_tin.json`.
 
 ### 3️⃣ Nhận báo cáo:
+<img src="img/giao dien 1.png" alt="" width="700px" hight="700px"/>
 ```bash
 python nguoi_nhan.py
 ```
