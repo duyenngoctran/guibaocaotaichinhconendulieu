@@ -1,4 +1,5 @@
 # 📑 ỨNG DỤNG GỬI BÁO CÁO TÀI CHÍNH CÓ NÉN DỮ LIỆU
+<img src="img/logoDaiNam.png" alt="DaiNam University Logo" width="200"/>
 
 Ứng dụng này mô phỏng **hệ thống gửi nhận báo cáo tài chính** (như báo cáo quý, năm) giữa người gửi và người nhận, với các bước nén, mã hóa, ký số, kiểm tra toàn vẹn trước khi giải nén, nhằm đảm bảo tính bảo mật, giảm dung lượng khi truyền.
 
@@ -40,6 +41,7 @@ python tao_khoa_rsa.py
 ```
 
 ### 2️⃣ Gửi báo cáo:
+<img src="img/giao dien.png" alt="" width="700px" hight="700px"/>
 - Đặt báo cáo cần gửi (ví dụ: `finance.txt`) cùng thư mục.
 - Chạy script:
   ```bash
