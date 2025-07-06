@@ -80,6 +80,5 @@ python nguoi_nhan.py
 ✔️ Phù hợp cho đồ án môn Bảo mật, An toàn thông tin, hoặc các bài tập lớn liên quan đến bảo vệ dữ liệu tài chính.
 
 ---
-
-🚀 **Tác giả:** Sinh viên Đại học Duy Tân / Đại Nam  
+  
 ✨ **Đề tài:** "Ứng dụng gửi báo cáo tài chính có nén dữ liệu và bảo mật"
